@@ -9,3 +9,5 @@
 $ npm install
 $ npm run dev
 ```
+
+3. You can test the endpoints from the Postman collection (I include a json file `delilah_resto.postman_collection.json`)
